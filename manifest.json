@@ -1,0 +1,24 @@
+{
+  "name": "القناص صفر",
+  "short_name": "القناص",
+  "description": "لعبة قنص واقعية تعمل على المتصفح، مبنية بـ HTML5 Canvas و JavaScript.",
+  "start_url": "/sniper-zero/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#050608",
+  "theme_color": "#050608",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNIper_sight_symbol.svg/192px-SNIper_sight_symbol.svg.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNIper_sight_symbol.svg/512px-SNIper_sight_symbol.svg.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
